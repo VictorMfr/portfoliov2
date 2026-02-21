@@ -1,0 +1,79 @@
+{
+  "Metadata": {
+    "title": "Portafolio de Victor",
+    "description": "Sitio web personal de portafolio"
+  },
+  "Header": {
+    "about": "Acerca de mí",
+    "certificates": "Certificados",
+    "projects": "Proyectos",
+    "brand": "Portafolio de Victor"
+  },
+  "LanguageSwitcher": {
+    "label": "Idioma"
+  },
+  "Hero": {
+    "titlePrefix": "Ideas en soluciones",
+    "titleHighlight": "Digitales",
+    "subtitle": "Desarrollador full stack MERN + 9. semestre de Ingeniería en Sistemas."
+  },
+  "About": {
+    "title": "Acerca de mí",
+    "paragraph1": "Soy Victor, desarrollador web enfocado en construir experiencias digitales claras, rápidas y funcionales con tecnologías modernas como React, Next.js y TypeScript.",
+    "paragraph2": "Disfruto aprender de forma constante, colaborar en equipo y resolver retos reales con soluciones mantenibles y orientadas a resultados.",
+    "paragraph3": "También me interesa el diseño de interfaces y la optimización de rendimiento para entregar productos con buena experiencia de usuario de principio a fin.",
+    "cv": "CV"
+  },
+  "Projects": {
+    "title": "Proyectos",
+    "searchPlaceholder": "Buscar proyecto",
+    "viewDetails": "Ver detalles",
+    "empty": "No se encontraron proyectos",
+    "technologies": "Tecnologías"
+  },
+  "Services": {
+    "title": "Servicios",
+    "items": {
+      "webDevelopmentTitle": "Desarrollo web",
+      "webDevelopmentDescription": "Desarrollo sitios web para empresas y profesionales.",
+      "mobileDevelopmentTitle": "Desarrollo móvil",
+      "mobileDevelopmentDescription": "Desarrollo aplicaciones móviles para empresas y profesionales.",
+      "uiuxTitle": "Diseño UI/UX",
+      "uiuxDescription": "Diseño interfaces y experiencias de usuario enfocadas en resultados.",
+      "systemsAnalysisTitle": "Análisis y diseño de sistemas",
+      "systemsAnalysisDescription": "Analizo y diseño sistemas alineados a objetivos de negocio.",
+      "testingTitle": "Pruebas y validación de software",
+      "testingDescription": "Realizo pruebas y validaciones para asegurar calidad en el software.",
+      "requirementsTitle": "Levantamiento de requerimientos",
+      "requirementsDescription": "Defino requerimientos funcionales y técnicos para nuevos proyectos.",
+      "consultingTitle": "Consultoría",
+      "consultingDescription": "Brindo asesoría técnica para decisiones de producto y arquitectura.",
+      "softwareDevelopmentTitle": "Desarrollo de software",
+      "softwareDevelopmentDescription": "Construyo soluciones de software a medida para necesidades reales.",
+      "projectManagementTitle": "Gestión de proyectos",
+      "projectManagementDescription": "Gestiono proyectos de principio a fin con enfoque en entregas."
+    }
+  },
+  "Technologies": {
+    "title": "Tecnologías",
+    "description": "He trabajado con diferentes tecnologías y frameworks, entre ellos:",
+    "contactMe": "Contáctame"
+  },
+  "Certificates": {
+    "title": "Certificados",
+    "searchPlaceholder": "Buscar certificado",
+    "viewCertificate": "Ver certificado",
+    "empty": "No se encontraron certificados"
+  },
+  "Footer": {
+    "brand": "Portafolio",
+    "copyright": "© 2025 Portafolio de Victor",
+    "contact": "Contacto",
+    "social": "Redes sociales",
+    "cv": "CV"
+  },
+  "AboutPage": {
+    "text": "¡Hola! Soy Victor, desarrollador web apasionado por crear experiencias digitales atractivas y funcionales. Me especializo en tecnologías modernas como React, Next.js y TypeScript. Disfruto aprender constantemente, colaborar en equipo y enfrentar nuevos retos. Mi objetivo es aportar soluciones creativas y eficientes en cada proyecto, manteniendo siempre la calidad y la atención al detalle. Además de programar, me interesa el diseño de interfaces y la optimización del rendimiento web. ¡Estoy listo para contribuir y seguir creciendo en el mundo del desarrollo!"
+  }
+}
+

@@ -1,0 +1,79 @@
+{
+  "Metadata": {
+    "title": "Victor Portfolio",
+    "description": "Personal portfolio website"
+  },
+  "Header": {
+    "about": "About me",
+    "certificates": "Certificates",
+    "projects": "Projects",
+    "brand": "Victor Portfolio"
+  },
+  "LanguageSwitcher": {
+    "label": "Language"
+  },
+  "Hero": {
+    "titlePrefix": "Ideas and",
+    "titleHighlight": "Digital solutions",
+    "subtitle": "MERN full stack developer + 9th semester in Systems Engineering."
+  },
+  "About": {
+    "title": "About me",
+    "paragraph1": "I am Victor, a web developer focused on building clear, fast, and functional digital experiences with modern technologies such as React, Next.js, and TypeScript.",
+    "paragraph2": "I enjoy continuous learning, teamwork, and solving real-world challenges with maintainable, results-oriented solutions.",
+    "paragraph3": "I am also interested in interface design and performance optimization to deliver products with a great end-to-end user experience.",
+    "cv": "Resume"
+  },
+  "Projects": {
+    "title": "Projects",
+    "searchPlaceholder": "Search project",
+    "viewDetails": "View details",
+    "empty": "No projects found",
+    "technologies": "Technologies"
+  },
+  "Services": {
+    "title": "Services",
+    "items": {
+      "webDevelopmentTitle": "Web development",
+      "webDevelopmentDescription": "I build websites for companies and professionals.",
+      "mobileDevelopmentTitle": "Mobile development",
+      "mobileDevelopmentDescription": "I build mobile apps for companies and professionals.",
+      "uiuxTitle": "UI/UX design",
+      "uiuxDescription": "I design interfaces and user experiences focused on outcomes.",
+      "systemsAnalysisTitle": "Systems analysis and design",
+      "systemsAnalysisDescription": "I analyze and design systems aligned with business goals.",
+      "testingTitle": "Software testing and validation",
+      "testingDescription": "I run tests and validations to ensure software quality.",
+      "requirementsTitle": "Requirements gathering",
+      "requirementsDescription": "I define functional and technical requirements for new projects.",
+      "consultingTitle": "Consulting",
+      "consultingDescription": "I provide technical guidance for product and architecture decisions.",
+      "softwareDevelopmentTitle": "Software development",
+      "softwareDevelopmentDescription": "I build tailored software solutions for real needs.",
+      "projectManagementTitle": "Project management",
+      "projectManagementDescription": "I manage projects end to end with delivery focus."
+    }
+  },
+  "Technologies": {
+    "title": "Technologies",
+    "description": "I have worked with a variety of technologies and frameworks, including:",
+    "contactMe": "Contact me"
+  },
+  "Certificates": {
+    "title": "Certificates",
+    "searchPlaceholder": "Search certificate",
+    "viewCertificate": "View certificate",
+    "empty": "No certificates found"
+  },
+  "Footer": {
+    "brand": "Portfolio",
+    "copyright": "© 2025 Victor Portfolio",
+    "contact": "Contact",
+    "social": "Social media",
+    "cv": "Resume"
+  },
+  "AboutPage": {
+    "text": "Hi! I'm Victor, a web developer passionate about creating engaging and functional digital experiences. I specialize in modern technologies such as React, Next.js, and TypeScript. I enjoy continuous learning, teamwork, and taking on new challenges. My goal is to deliver creative and efficient solutions in every project while always maintaining quality and attention to detail. Besides coding, I am interested in interface design and web performance optimization. I'm ready to contribute and keep growing in software development."
+  }
+}
+
