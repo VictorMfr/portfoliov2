@@ -1,31 +1,53 @@
 {
   "Metadata": {
-    "title": "Victor Portfolio",
+    "title": "Victor's Portfolio",
     "description": "Personal portfolio website"
   },
   "Header": {
     "about": "About me",
     "certificates": "Certificates",
     "projects": "Projects",
-    "brand": "Victor Portfolio"
+    "brand": "Victor's Portfolio",
+    "services": "Services",
+    "technologies": "Technologies",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu"
   },
   "LanguageSwitcher": {
     "label": "Language"
   },
   "Hero": {
-    "titlePrefix": "Ideas and",
-    "titleHighlight": "Digital solutions",
-    "subtitle": "MERN full stack developer + 9th semester in Systems Engineering."
+    "brand": "Victor Martinez's Portfolio",
+    "rolePrefix": "Systems Engineer",
+    "roleSuffix": " & Web Developer",
+    "description": "I analyze, design, and develop systems according to your needs using modern technologies and tools",
+    "learnMore": "Learn more"
   },
   "About": {
     "title": "About me",
-    "paragraph1": "I am Victor, a web developer focused on building clear, fast, and functional digital experiences with modern technologies such as React, Next.js, and TypeScript.",
-    "paragraph2": "I enjoy continuous learning, teamwork, and solving real-world challenges with maintainable, results-oriented solutions.",
-    "paragraph3": "I am also interested in interface design and performance optimization to deliver products with a great end-to-end user experience.",
-    "cv": "Resume"
+    "title1": "Who am I?",
+    "paragraph1": "Victor Martinez, systems engineer and full-stack developer. Specialized in planning, designing, and building systems. Currently focused on web and mobile applications.",
+    "title2": "What do you know about web development?",
+    "paragraph2": "Through the JavaScript environment: Next.js, Node.js, TypeScript, React, Material Design, Bootstrap",
+    "title3": "What do you know about mobile development?",
+    "paragraph3": "I have skills in developing mobile applications for Android and iOS using React Native + Expo and EAS for deployment.",
+    "title4": "What do you know about UI/UX?",
+    "paragraph4": "Through the Figma tool, I design and prototype user interfaces",
+    "title5": "What do you specifically do as a systems engineer?",
+    "paragraph5": "Generally, I analyze, design, and develop computer systems, but I also manage projects, offer methodological solutions to soft and hard problems, and I am committed to systemic order",
+    "title6": "What planning strategies do you use?",
+    "paragraph6": "I use diagramming tools like Draw.io, Kanban philosophy, Trello, Microsoft Tasks, brainstorming, whiteboard use, recording and transcribing conversations, and AI analysis and retrospectives with NotebookLM",
+    "title7": "Are you up to date with AI?",
+    "paragraph7": "I built sales agents and task managers with AI through the MCP protocol, using code editors like Cursor and Antigravity. Knowledge of Rules, Skills, Actions, and project deployment with local models using LM Studio and Ollama",
+    "title8": "Team collaboration?",
+    "paragraph8": "Use of Git and GitHub commands",
+    "title9": "What do others think about you?",
+    "paragraph9": "Very methodical, humble, focused, proactive, analytical, with leadership potential",
+    "cv": "CV"
   },
   "Projects": {
-    "title": "Projects",
+    "title": "Latest featured projects",
+    "subtitle": "Large and small projects that demonstrate my learning and effort",
     "searchPlaceholder": "Search project",
     "viewDetails": "View details",
     "empty": "No projects found",
@@ -33,47 +55,48 @@
   },
   "Services": {
     "title": "Services",
+    "subtitle": "Tailored to your personal or business needs",
     "items": {
       "webDevelopmentTitle": "Web development",
-      "webDevelopmentDescription": "I build websites for companies and professionals.",
+      "webDevelopmentDescription": "I develop websites for businesses and professionals.",
       "mobileDevelopmentTitle": "Mobile development",
-      "mobileDevelopmentDescription": "I build mobile apps for companies and professionals.",
-      "uiuxTitle": "UI/UX design",
-      "uiuxDescription": "I design interfaces and user experiences focused on outcomes.",
-      "systemsAnalysisTitle": "Systems analysis and design",
-      "systemsAnalysisDescription": "I analyze and design systems aligned with business goals.",
+      "mobileDevelopmentDescription": "I develop mobile applications for businesses and professionals.",
+      "uiuxTitle": "UI/UX Design",
+      "uiuxDescription": "I design user interfaces for mobile and web applications",
+      "systemsAnalysisTitle": "Systems analysis",
+      "systemsAnalysisDescription": "I analyze and design systems aligned with business objectives.",
       "testingTitle": "Software testing and validation",
-      "testingDescription": "I run tests and validations to ensure software quality.",
+      "testingDescription": "I perform testing and validation to ensure software quality.",
       "requirementsTitle": "Requirements gathering",
       "requirementsDescription": "I define functional and technical requirements for new projects.",
       "consultingTitle": "Consulting",
-      "consultingDescription": "I provide technical guidance for product and architecture decisions.",
+      "consultingDescription": "I provide technical advice for product and architecture decisions.",
       "softwareDevelopmentTitle": "Software development",
-      "softwareDevelopmentDescription": "I build tailored software solutions for real needs.",
+      "softwareDevelopmentDescription": "I build custom software solutions for real needs.",
       "projectManagementTitle": "Project management",
-      "projectManagementDescription": "I manage projects end to end with delivery focus."
+      "projectManagementDescription": "I manage projects from start to finish with a focus on deliveries."
     }
   },
   "Technologies": {
     "title": "Technologies",
-    "description": "I have worked with a variety of technologies and frameworks, including:",
+    "description": "I have worked with different technologies and frameworks, including:",
     "contactMe": "Contact me"
   },
   "Certificates": {
     "title": "Certificates",
+    "subtitle": "Verifiable moments of my career as a developer",
     "searchPlaceholder": "Search certificate",
     "viewCertificate": "View certificate",
     "empty": "No certificates found"
   },
   "Footer": {
     "brand": "Portfolio",
-    "copyright": "© 2025 Victor Portfolio",
+    "copyright": "© 2025 Victor's Portfolio",
     "contact": "Contact",
     "social": "Social media",
-    "cv": "Resume"
+    "cv": "CV"
   },
   "AboutPage": {
-    "text": "Hi! I'm Victor, a web developer passionate about creating engaging and functional digital experiences. I specialize in modern technologies such as React, Next.js, and TypeScript. I enjoy continuous learning, teamwork, and taking on new challenges. My goal is to deliver creative and efficient solutions in every project while always maintaining quality and attention to detail. Besides coding, I am interested in interface design and web performance optimization. I'm ready to contribute and keep growing in software development."
+    "text": "Hi! I'm Victor, a web developer passionate about creating engaging and functional digital experiences. I specialize in modern technologies like React, Next.js, and TypeScript. I enjoy continuous learning, collaborating in teams, and taking on new challenges. My goal is to provide creative and efficient solutions in every project, always maintaining quality and attention to detail. In addition to programming, I am interested in interface design and web performance optimization. I am ready to contribute and keep growing in the development world!"
   }
 }
-

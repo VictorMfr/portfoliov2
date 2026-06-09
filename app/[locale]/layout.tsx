@@ -44,7 +44,7 @@ export default async function LocaleLayout({
     <NextIntlClientProvider locale={locale} messages={messages}>
       <section className="flex flex-col flex-1 min-h-full">
         <Header locale={locale} />
-        <section className="px-8 lg:px-24 flex flex-col gap-16 flex-1 relative py-16">
+        <section>
           {children}
         </section>
         <Footer locale={locale} />

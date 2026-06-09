@@ -7,8 +7,8 @@ interface HeaderProps {
 
 export default function Header({ locale }: HeaderProps) {
   return (
-    <header className="bg-[#01111F] lg:bg-[#011627] sticky top-0 border-b border-white/20 lg:border-0 z-20">
-      <div className="lg:bg-[#01111F] flex flex-col gap-2 md:px-32 py-4 lg:flex-row border border-b border-white/20">
+    <header className="bg-[#011627] sticky top-0 z-20 px-[5%] py-[20px] border-b border-[#33ff60]">
+      <div className="flex justify-between">
         <HeaderLogo locale={locale} />
         <HeaderNavigation locale={locale} />
       </div>

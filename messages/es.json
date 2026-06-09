@@ -7,25 +7,47 @@
     "about": "Acerca de mí",
     "certificates": "Certificados",
     "projects": "Proyectos",
-    "brand": "Portafolio de Victor"
+    "brand": "Portafolio de Victor",
+    "services": "Servicios",
+    "technologies": "Tecnologías",
+    "closeMenu": "Cerrar menú",
+    "openMenu": "Abrir menú"
   },
   "LanguageSwitcher": {
     "label": "Idioma"
   },
   "Hero": {
-    "titlePrefix": "Ideas en soluciones",
-    "titleHighlight": "Digitales",
-    "subtitle": "Desarrollador full stack MERN + 9. semestre de Ingeniería en Sistemas."
+    "brand": "Portafolio de Victor Martinez",
+    "rolePrefix": "Ingeniero en Sistemas",
+    "roleSuffix": " & Web Developer",
+    "description": "Analizo, diseño y desarrollo sistemas acorde a tus necesidades con tecnologías y herramientas modernas",
+    "learnMore": "Saber más"
   },
   "About": {
     "title": "Acerca de mí",
-    "paragraph1": "Soy Victor, desarrollador web enfocado en construir experiencias digitales claras, rápidas y funcionales con tecnologías modernas como React, Next.js y TypeScript.",
-    "paragraph2": "Disfruto aprender de forma constante, colaborar en equipo y resolver retos reales con soluciones mantenibles y orientadas a resultados.",
-    "paragraph3": "También me interesa el diseño de interfaces y la optimización de rendimiento para entregar productos con buena experiencia de usuario de principio a fin.",
+    "title1": "¿Quién soy?",
+    "paragraph1": "Victor Martinez, ingeniero en sistemas y también desarrollador fullstack. Especializado en planificar, diseñar y construir sistemas. Actualmente enfocado en aplicaciones web y móviles.",
+    "title2": "¿Qué sabes de desarrollo web?",
+    "paragraph2": "Mediante el entorno de Javacript: Next.js, Node.js, Typescript, React, Material Design, Bootstrap",
+    "title3": "¿Qué sabes de desarrollo móvil?",
+    "paragraph3": "Poseo habilidades para desarrollar aplicaciones móviles para Android y IOS usando React Native + Expo y EAS para despliegue.",
+    "title4": "¿Qué sabes de UI/UX?",
+    "paragraph4": "A través de la herramienta Figma, diseño y creo prototipos de interfaces de usuario",
+    "title5": "¿Qué haces particularmente como ingeniero en sistemas?",
+    "paragraph5": "En general, analizo, diseño y desarrollo sistemas informaticos, pero también gestiono proyectos, resolución metodológica a problemas suaves y duros, comprometido al orden sistémico",
+    "title6": "¿Qué estrategias de planificación utilizas?",
+    "paragraph6": "Utilizo herramientas de diagramado como Draw.io, filosofía Kanban, Trello, Microsoft Tasks, lluvia de ideas, uso de pizarras, grabación de conversaciones y transcripción y análisis y retrospectivas con IA como NotebookLLM",
+    "title7": "¿Estás al día con la IA?",
+    "paragraph7": "Hice agentes de ventas y administrador de tareas con IA a través del protocolo MCP, uso de editores de código como Cursor y Antigravity. Conocimientos de Rules, Skills, Actions, Depliegue de proyectos con modelos locales con LM Studio y Ollama",
+    "title8": "¿Colaboración en equipo?",
+    "paragraph8": "Uso de los comandos Git y Github",
+    "title9": "¿Qué opinan otros sobre ti?",
+    "paragraph9": "Muy metódico, humilde, enfocado, proactivo, analítico, con material de lider",
     "cv": "CV"
   },
   "Projects": {
-    "title": "Proyectos",
+    "title": "Ultimos proyectos destacados",
+    "subtitle": "Proyectos grandes y pequeños, que demuestran mi aprendizaje y esfuerzo",
     "searchPlaceholder": "Buscar proyecto",
     "viewDetails": "Ver detalles",
     "empty": "No se encontraron proyectos",
@@ -33,14 +55,15 @@
   },
   "Services": {
     "title": "Servicios",
+    "subtitle": "Acorde a tus necesidades personales o empresariales",
     "items": {
       "webDevelopmentTitle": "Desarrollo web",
       "webDevelopmentDescription": "Desarrollo sitios web para empresas y profesionales.",
       "mobileDevelopmentTitle": "Desarrollo móvil",
       "mobileDevelopmentDescription": "Desarrollo aplicaciones móviles para empresas y profesionales.",
       "uiuxTitle": "Diseño UI/UX",
-      "uiuxDescription": "Diseño interfaces y experiencias de usuario enfocadas en resultados.",
-      "systemsAnalysisTitle": "Análisis y diseño de sistemas",
+      "uiuxDescription": "Diseño interfaces de usuario para aplicaciones móviles y web",
+      "systemsAnalysisTitle": "Análisis de sistemas",
       "systemsAnalysisDescription": "Analizo y diseño sistemas alineados a objetivos de negocio.",
       "testingTitle": "Pruebas y validación de software",
       "testingDescription": "Realizo pruebas y validaciones para asegurar calidad en el software.",
@@ -61,6 +84,7 @@
   },
   "Certificates": {
     "title": "Certificados",
+    "subtitle": "Momentos comprobables de mi carrera como desarrollador",
     "searchPlaceholder": "Buscar certificado",
     "viewCertificate": "Ver certificado",
     "empty": "No se encontraron certificados"
@@ -76,4 +100,3 @@
     "text": "¡Hola! Soy Victor, desarrollador web apasionado por crear experiencias digitales atractivas y funcionales. Me especializo en tecnologías modernas como React, Next.js y TypeScript. Disfruto aprender constantemente, colaborar en equipo y enfrentar nuevos retos. Mi objetivo es aportar soluciones creativas y eficientes en cada proyecto, manteniendo siempre la calidad y la atención al detalle. Además de programar, me interesa el diseño de interfaces y la optimización del rendimiento web. ¡Estoy listo para contribuir y seguir creciendo en el mundo del desarrollo!"
   }
 }
-

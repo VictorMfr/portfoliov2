@@ -37,7 +37,7 @@ export default async function Footer({ locale }: FooterProps) {
         <h3 className="font-bold">{t("social")}</h3>
         <ul className="">
           <li><a href="https://www.linkedin.com/in/victor-martinez-0851a6318/">LinkedIn</a></li>
-          <li><a href="https://www.instagram.com/wm_dev3/">Instagram</a></li>
+          <li><a href="https://github.com/VictorMfr">GitHub</a></li>
           <li><a href="https://www.youtube.com/@FVictorMartinez">YouTube</a></li>
         </ul>
       </div>
