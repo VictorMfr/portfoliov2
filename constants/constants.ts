@@ -127,7 +127,23 @@ export const projects = [
         technologies: ['React', 'CSS', 'Responsive Design'],
         date: '2024-01-01',
     },
-] 
+    {
+        id: 9,
+        title: {
+            es: 'Maison Oud E-commerce',
+            en: 'Maison Oud E-commerce',
+        },
+        description: {
+            es: 'Maison Oud es un sitio web e-commerce sobre la venta de perfumes populares de origen árabe. Contiene secciónes de landing page, carrito, formularios de envio y pago seguido de procesos de compra intuitivos. Hecha mediante la herramienta Webflow. Desarrollé este proyecto para un cliente, con la intención de mejorar mi abanico de soluciones de sistemas. Entendí que antes de escribir una linea de codigo, es entender el proposito y ahorrar tiempo de ser posible. Muchas necesidades ya son cubiertas por softwares ya elaborados, y en esta era de la IA, hemos sido reenfocados como programadores a dedicarnos en el producto del código, más que el código en si mismo',
+            en: 'Maison Oud is an e-commerce website for the sale of popular Arabic perfumes. It contains sections for landing page, cart, shipping and payment forms followed by intuitive purchase processes. Made with the Webflow tool. I developed this project for a client, with the intention of improving my range of system solutions. I understood that before writing a line of code, it is to understand the purpose and save time if possible. Many needs are already covered by already developed software, and in this era of AI, we have been refocused as programmers to dedicate ourselves to the product of the code, rather than the code itself.',
+        },
+        image: '/images/projects/maisonOudEcommerce_preview.png',
+        thumbnail: '/images/projects/maisonOudEcommerce_thumbnail.png',
+        url: 'maison-oud-ecommerce',
+        technologies: ['Webflow'],
+        date: '2025-01-01',
+    },
+]
 
 export const certificates = [
     {
@@ -209,5 +225,15 @@ export const certificates = [
         image: '/images/certificates/html-certificate.png',
         date: '2024-01-01',
         issuer: 'Oracle',
+    },
+    {
+        id: 9,
+        title: {
+            es: 'Diseño e Implementación de Redes basadas en Mikrotik',
+            en: 'Network Design and Implementation based on Mikrotik',
+        },
+        image: '/images/certificates/network-design-mikrotik-certificate.jpeg',
+        date: '2026-21-06',
+        issuer: 'Academos',
     },
 ]
